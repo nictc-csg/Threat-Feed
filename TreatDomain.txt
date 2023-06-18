@@ -6,7 +6,7 @@ jira.atlas-sian.net
 order.myvandyke.net
 insappstaticanalyze.com
 query.bussinesappinstant.com
-insappstaticanalyze.com/
+insappstaticanalyze.com
 zabbixasaservice.com
 canarytokens.org
 upd.info-stream.net
