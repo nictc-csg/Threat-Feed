@@ -213,3 +213,4 @@ ibmupdate.com
 linux-update.net
 win7update.net
 https://www.deepseek.com/
+www.deepseek.com/
