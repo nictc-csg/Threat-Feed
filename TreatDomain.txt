@@ -6,6 +6,7 @@ jira.atlas-sian.net
 order.myvandyke.net
 insappstaticanalyze.com
 query.bussinesappinstant.com
+https://dl.dropboxusercontent.com
 insappstaticanalyze.com
 zabbixasaservice.com
 canarytokens.org
