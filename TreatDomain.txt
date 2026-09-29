@@ -323,3 +323,4 @@ hpm.plp.center@ooutlook.com
 lucka.janezic@guest.arnes.si
 arnes.si
 socks.servlet.site
+socks.kraftkore.website
