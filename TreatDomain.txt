@@ -325,3 +325,4 @@ arnes.si
 socks.servlet.site
 socks.kraftkore.website
 wikof.gouko.xyz
+libcurl.so.4
